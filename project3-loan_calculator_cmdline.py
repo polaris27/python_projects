@@ -2,9 +2,7 @@ import math
 import argparse
 import sys
 
-
 class CreditCalculator:
-
     def __init__(self):
         self.error = ""
         self.parser = ""
